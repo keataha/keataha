@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <img width="736" height="245" alt="banner" src="https://github.com/user-attachments/assets/1eb46f8c-23d5-4ba0-9dda-5647b2b5f914" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
 
 ### Hey there! I'm Taha 👋
 
