@@ -22,15 +22,17 @@ I work across 2D and 3D art, and I try to keep things playful and enjoyable.
 
 <div align="left">
   
+<pre>
 ╱|、
-(˚ˎ 。7
-|、˜〵
+(˚ˎ 。7  
+ |、˜〵          
 じしˍ,)ノ
+</pre>
 
 </div>
 
 <div align="left">
 
-**⚡ Fun fact:** I love penguins & cats 🐧🐱
+I love penguins & cats 🐧🐱
 
 </div>
