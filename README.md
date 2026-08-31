@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="736" height="414" alt="♧" src="https://github.com/user-attachments/assets/bf83fd15-6efa-402e-adff-d463e032ee1f" />
+<img width="736" height="245" alt="♧" src="https://github.com/user-attachments/assets/1eb46f8c-23d5-4ba0-9dda-5647b2b5f914" />
 
 <a href="https://www.keataha.me"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/taha-chrit/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
