@@ -1,7 +1,6 @@
 <div align="left">
 
 <img width="100%" alt="banner" src="https://github.com/user-attachments/assets/1eb46f8c-23d5-4ba0-9dda-5647b2b5f914" />
-
 <br><br>
 
 <a href="https://www.keataha.me"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
