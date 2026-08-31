@@ -15,7 +15,7 @@
 
 ### Hey there! I'm Taha 👋
 
-**Game Art & Dev Master's Student | Concept Artist**
+**Game Art & Dev Master's Student**
 
 I develop story worlds, starting from a sketch and pushing them all the way to something playable.
 I work across 2D and 3D art, and I try to keep things playful and enjoyable.
