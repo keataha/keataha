@@ -19,3 +19,10 @@
 
 I develop story worlds, starting from a sketch and pushing them all the way to something playable.
 I work across 2D and 3D art, and I try to keep things playful and enjoyable.
+╱|、
+(˚ˎ 。7
+|、˜〵
+じしˍ,)ノ
+**⚡ Fun fact:** I love penguins & cats 🐧🐱
+
+</div>
