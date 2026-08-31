@@ -2,9 +2,9 @@
 
 <img width="736" height="245" alt="banner" src="https://github.com/user-attachments/assets/1eb46f8c-23d5-4ba0-9dda-5647b2b5f914" />
 
-<a href="https://www.keataha.me"><img src="https://img.shields.io/badge/PORTFOLIO-141414?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/taha-chrit/"><img src="https://img.shields.io/badge/LINKEDIN-141414?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:keatahaatelier@gmail.com"><img src="https://img.shields.io/badge/GMAIL-141414?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+<a href="https://www.keataha.me"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/taha-chrit/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="mailto:keatahaatelier@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" /></a>
 
 </div>
 
