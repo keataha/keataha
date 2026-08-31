@@ -2,9 +2,9 @@
 
 <img width="736" height="245" alt="banner" src="https://github.com/user-attachments/assets/1eb46f8c-23d5-4ba0-9dda-5647b2b5f914" />
 
-<a href="https://www.keataha.me"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/taha-chrit/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:keatahaatelier@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.keataha.me"><img src="https://img.shields.io/badge/PORTFOLIO-141414?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/taha-chrit/"><img src="https://img.shields.io/badge/LINKEDIN-141414?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:keatahaatelier@gmail.com"><img src="https://img.shields.io/badge/GMAIL-141414?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
 </div>
 
@@ -18,11 +18,3 @@
 
 I develop story worlds, starting from a sketch and pushing them all the way to something playable.
 I work across 2D and 3D art, and I try to keep things playful and enjoyable.
-╱|、
-(˚ˎ 。7
-|、˜〵
-じしˍ,)ノ
-
-**⚡ Fun fact:** I love penguins & cats 🐧🐱
-
-</div>
